@@ -1,7 +1,7 @@
-API_URL = "https://apidomen/api/v1/"
+API_URL = "https://pay.toolzo.com"
 API_VERSION = "1"
-API_KEY = "47620c0e870b4a7e8f2f9f091293ad45"  # your API KEY
-SECRET = "D85SKVd7wWdDHfJgrLDry+9/yka1dc9fdXV2YN+JWmVDQjraaF8ugt0ZJ4pZqUq9Dkcdvd/Ti0WFgGVV3UTdUw=="  # your SECRET (hmacKey)
+API_KEY = "your apikey" 
+SECRET = "your secret key"
 REQUEST_TYPE_REQUEST = "Request"
 
 
